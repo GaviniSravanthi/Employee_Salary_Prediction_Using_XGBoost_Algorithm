@@ -6,7 +6,7 @@ This project predicts employee salaries using machine learning based on job deta
 
 ## 🚀 Project Demo
 
-![App Screenshot 1](https://github.com/GaviniSravanthi/Employee-salary-prediction_using_XGBoost_algorithm/blob/main/screenshots/pic1.jpg)
+![App Screenshot 1](screenshot/pic1.jpg)
 
 ![App Screenshot 2](https://github.com/your-username/employee-salary-predictor/blob/main/screenshots/prediction.png)
 
