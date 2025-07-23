@@ -10,6 +10,8 @@ This project predicts employee salaries using machine learning based on job deta
 
 ![App Screenshot 2](screenshot/pic2.png)
 
+![App Screenshot 2](screenshot/pic3.png)
+
 ---
 
 ## 📌 Features
