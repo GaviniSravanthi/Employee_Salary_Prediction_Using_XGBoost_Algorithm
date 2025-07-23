@@ -6,9 +6,9 @@ This project predicts employee salaries using machine learning based on job deta
 
 ## 🚀 Project Demo
 
-![App Screenshot 1](screenshot/pic1.jpg)
+![App Screenshot 1](screenshot/pic1.png)
 
-![App Screenshot 2](https://github.com/your-username/employee-salary-predictor/blob/main/screenshots/prediction.png)
+![App Screenshot 2](screenshot/pic2.png)
 
 ---
 
